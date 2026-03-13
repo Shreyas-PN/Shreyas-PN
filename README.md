@@ -1,12 +1,12 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94560&height=200&section=header&text=Shreyas%20P%20N&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20Things&descAlignY=58&descColor=cccccc" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94560&height=200&section=header&text=Shreyas%20P%20N&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Boston%2C%20MA&descAlignY=58&descColor=cccccc" width="100%"/>
 </div>
 
 <div align="center">
 
 ```
- "If it's not deployed, did it even happen?"
+professional bug introducer. occasional bug fixer. full-time food indecision solver.
 ```
 
 </div>
@@ -15,12 +15,14 @@
 
 ## 👋 Hey, I'm Shreyas
 
-Software Engineer who enjoys building things that are actually useful (and occasionally absurd). I write code in Python, TypeScript, and Java/Kotlin — sometimes all three in the same week. I care about reliability, real-time systems, and making the "where should we eat?" problem a thing of the past.
+Full-stack engineer with ~4 years of experience across enterprise consulting (Accenture), founding-engineer scrappiness (Cloud USA), and academia (Northeastern). Just wrapped my MS in Information Systems in December 2025 and currently based in Boston.
 
-- 🔭 Currently building **[menu-roulette](https://github.com/Shreyas-PN/menu-roulette)** — because group food decisions shouldn't require a therapist
-- ⚡ I like systems that don't fall over at 3am
-- 🎯 Into: distributed systems, AI tooling, and anything with a good feedback loop
-- 🏆 Proud owner of a Pull Shark badge (yes, it counts)
+I care about systems that don't wake you up at 3am, products that actually ship, and solving the "where should we eat?" debate once and for all (see: menu-roulette).
+
+- 🎰 Currently building **[menu-roulette](https://github.com/Shreyas-PN/menu-roulette)** — real-time multiplayer food decisions. spin the wheel. no more group chat suffering.
+- 🤖 Built a multi-agent AI football manager with LangGraph, RAG, and an XGBoost match predictor — because I needed someone smarter than me to lose with
+- 🔧 Also into reliability — if a system can fail, I've probably watched it fail and then fixed it
+- 🏆 Pull Shark. it's a real badge. it goes on the CV.
 
 ---
 
@@ -31,44 +33,55 @@ Software Engineer who enjoys building things that are actually useful (and occas
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=e94560)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
-**Tools & Platforms**
+**Frameworks & Tools**
 
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
+![.NET](https://img.shields.io/badge/.NET-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-1a1a2e?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Azure](https://img.shields.io/badge/Azure-1a1a2e?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎰 [menu-roulette](https://github.com/Shreyas-PN/menu-roulette)
-> *Real-time multiplayer food decision app.*
+> *Real-time multiplayer food decision app — because someone had to build this.*
 
-Create a room, invite friends, vote on nearby restaurants, and **spin the wheel** to settle the debate once and for all. No more "idk, you pick." 
+Create a room, invite friends, vote on nearby restaurants, spin the wheel. Works with actual location data. Settles debates. Saves friendships.
 
-`Real-time` `Multiplayer` `WebSockets` `Maps API` `TypeScript`
+`TypeScript` `WebSockets` `Real-time` `Maps API` `Multiplayer`
 
 ---
 
 ### ⚽ [football-manager-ai](https://github.com/Shreyas-PN/football-manager-ai)
-> *AI-powered football management simulation.*
+> *Multi-agent AI system for football management — used as a live demo in interviews.*
 
-Because making tactical decisions should involve actual intelligence — artificial or otherwise.
+Four LangGraph-style agents collaborate to handle scouting, tactics, and match analysis. ChromaDB vector store for player knowledge retrieval, XGBoost model for match prediction, FastAPI backend, vanilla JS frontend. Runs locally, actually works.
 
-`Python` `AI/ML` `Simulation`
+`Python` `LangGraph` `RAG` `ChromaDB` `XGBoost` `FastAPI`
 
 ---
 
-### 🔧 [reliability-ops](https://github.com/Shreyas-PN/reliability-ops)
-> *Tooling for keeping systems alive when they'd rather not be.*
+### 🔬 [reliabilityops-lab](https://github.com/Shreyas-PN/reliabilityops-lab)
+> *SRE/observability tooling — because hope is not a monitoring strategy.*
 
-Reliability engineering utilities built for the kind of on-call shifts you don't want to have twice.
+Python-based reliability engineering utilities covering alerting, observability patterns, and on-call tooling. Built from real experience watching production systems do things they absolutely should not do.
 
-`DevOps` `Observability` `Python`
+`Python` `SRE` `Observability` `DevOps`
+
+---
+
+### 🏗️ [pacerpro-takehome](https://github.com/Shreyas-PN/pacerpro-takehome)
+> *Infrastructure-as-code on Azure with Terraform/HCL.*
+
+`Terraform` `HCL` `Azure` `IaC`
 
 ---
 
@@ -89,9 +102,8 @@ Reliability engineering utilities built for the kind of on-call shifts you don't
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shreyas-pn)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://shreyas-pn.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shreyas-pn/)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pogalnaveen.s@northeastern.edu)
 
 </div>
 
