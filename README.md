@@ -6,7 +6,7 @@
 <div align="center">
 
 ```
-professional bug introducer. occasional bug fixer. full-time food indecision solver.
+selective with recommendations. thorough with everything else.
 ```
 
 </div>
