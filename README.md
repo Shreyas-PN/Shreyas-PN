@@ -20,8 +20,8 @@ Full-stack engineer with ~4 years of experience across enterprise consulting (Ac
 I care about systems that don't wake you up at 3am, products that actually ship, and solving the "where should we eat?" debate once and for all (see: menu-roulette).
 
 - 🎰 Currently building **[menu-roulette](https://github.com/Shreyas-PN/menu-roulette)** — real-time multiplayer food decisions. spin the wheel. no more group chat suffering.
-- 🤖 Built a multi-agent AI football manager with LangGraph, RAG, and an XGBoost match predictor — because I needed someone smarter than me to lose with
-- 🔧 Also into reliability — if a system can fail, I've probably watched it fail and then fixed it
+- 🤖 Built **[football-manager-ai](https://github.com/Shreyas-PN/football-manager-ai)** — multi-agent AI with LangGraph, RAG, and XGBoost. needed someone smarter than me to lose with
+- 🔧 Also built **[reliabilityops-lab](https://github.com/Shreyas-PN/reliabilityops-lab)** — if a system can fail, I've probably watched it fail and then fixed it
 - 🏆 Pull Shark. it's a real badge. it goes on the CV.
 
 ---
