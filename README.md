@@ -5,10 +5,6 @@
 
 <div align="center">
 
-```
-selective with recommendations. thorough with everything else.
-```
-
 </div>
 
 ---
